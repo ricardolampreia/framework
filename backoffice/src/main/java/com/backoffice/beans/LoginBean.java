@@ -12,7 +12,6 @@ public class LoginBean {
 		return ("pages/login.xhtml");
 	}
 	
-
 	/**
 	 * @return the user
 	 */
